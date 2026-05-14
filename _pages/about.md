@@ -6,7 +6,8 @@ subtitle: MASc student, <a href="https://www.ece.utoronto.ca/">ECE, University o
 
 profile:
   align: right
-  image: Memoji.jpg
+  # image: Memoji.jpg
+  image: Profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Engineering Annex, Room 306, 11 King's College Road </p>
