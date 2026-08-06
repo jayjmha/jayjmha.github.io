@@ -10,7 +10,20 @@
   year        = {2026},
   month       = jul,
   address     = {Seoul, Korea},
-  abstract    = {We characterize five self-speculative decoding methods and find that draft cost — not acceptance rate — dominates end-to-end throughput.},
+  abstract    = {Large language model (LLM) inference is bottle-necked by autoregressive token generation, leading to poor GPU utilization and high LLM inference latency. Speculative decoding is a promising
+technique to speed up inference where ‘speculative’ tokens are generated with a cheaper model,
+and then validated en masse by the full model.
+While effective, speculative decoding requires an
+additional “draft” model. Self-speculative decoding obviates this need by reusing parts of the full
+model itself to generate candidate tokens. Existing methods implement this approach in different
+ways: some exit at an early decoder block, while
+others selectively skip layers within each block.
+Such a complex design space entails different
+tradeoffs in draft quality, draft & verification cost,
+and overall speedup. To better understand these
+tradeoffs, we characterize five self-speculative decoding techniques across three model sizes and
+three datasets and provide recommendations for
+future research in this area},
   pdf         = {Characterizing_self_speculative_decoding.pdf},
   selected    = {true}
 }

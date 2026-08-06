@@ -31,6 +31,4 @@ I am a MASc student in Electrical and Computer Engineering at the University of 
 
 My research focuses on **accelerating large language model inference**: efficient decoding, speculative and self-speculative decoding, quantization, and software–hardware co-optimization. I'm currently interested in characterizing where real throughput comes from when these techniques are deployed — what looks fast in theory often isn't, and the gap is where the interesting engineering lives.
 
-Before UofT, I worked on draft-model training for speculative decoding (EAGLE) at Hanyang University and I presented it at the 2024 Korean Artificial Intelligence Association Conference.
-
-Feel free to reach out by [email](mailto:jay.ha@mail.utoronto.ca) — I'm happy to chat about LLM efficiency, hardware-aware ML, or grad school in computer architecture.
+Feel free to reach out by [email](mailto:jay.ha@mail.utoronto.ca).
