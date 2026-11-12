@@ -35,6 +35,9 @@ ninja.data = [{
           section: "News",},{id: "news-presented-characterizing-self-speculative-decoding-approaches-for-accelerating-llms-at-adaptfm-icml-2026",
           title: 'Presented “Characterizing self-speculative decoding approaches for accelerating LLMs” at AdaptFM (ICML 2026)',
           description: "",
+          section: "News",},{id: "news-started-as-a-ta-for-ece253-digital-and-computer-systems-and-ece244-programming-fundamentals-at-the-university-of-toronto",
+          title: 'Started as a TA for ECE253 (Digital and Computer Systems) and ECE244 (Programming...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
