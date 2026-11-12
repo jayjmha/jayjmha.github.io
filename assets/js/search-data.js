@@ -38,6 +38,9 @@ ninja.data = [{
           section: "News",},{id: "news-started-as-a-ta-for-ece253-digital-and-computer-systems-and-ece244-programming-fundamentals-at-the-university-of-toronto",
           title: 'Started as a TA for ECE253 (Digital and Computer Systems) and ECE244 (Programming...',
           description: "",
+          section: "News",},{id: "news-received-the-percy-edward-hart-award-13-020-from-the-university-of-toronto",
+          title: 'Received the Percy Edward Hart Award ($13,020) from the University of Toronto.',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
